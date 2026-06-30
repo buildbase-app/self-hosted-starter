@@ -108,6 +108,10 @@ See the production guide: **https://docs.buildbase.app/self-hosted/production**
 
 ---
 
+## Contributing
+
+Contributions are welcome via fork → PR. See **[CONTRIBUTING.md](./CONTRIBUTING.md)** for the workflow, and **[SECURITY.md](./SECURITY.md)** for reporting vulnerabilities (don't open public issues for those).
+
 ## License
 
 MIT — see [LICENSE](./LICENSE). Buildbase and its images belong to their owner; this is an independent starter.
