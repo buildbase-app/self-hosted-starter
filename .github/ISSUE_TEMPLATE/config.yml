@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Self-hosting documentation
+    url: https://docs.buildbase.app/self-hosted/overview
+    about: How to deploy, configure, and operate the self-hosted platform.
+  - name: Self-hosting usage question / support
+    url: mailto:support@buildbase.app
+    about: For help running your deployment (not a bug in this starter).
+  - name: Deploy with AI assistance (Claude skill)
+    url: https://github.com/buildbase-app/claude-skill
+    about: Official Claude skill that walks you through deploying this stack.
