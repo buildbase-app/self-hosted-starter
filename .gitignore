@@ -1,0 +1,7 @@
+# Secrets — NEVER commit. Use .env.selfhost.example as the template.
+.env.selfhost
+.env
+*.local
+
+# OS / editor
+.DS_Store

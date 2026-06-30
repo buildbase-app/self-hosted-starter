@@ -1,0 +1,6 @@
+# Optional: only needed if you require the `busboy` dependency for file uploads.
+# Build with:  docker build -f Dockerfile.tenant-server -t my-tenant-server .
+# then point the tenant-server `image:` in docker-compose.selfhost.yml at it.
+FROM --platform=linux/amd64 buildbaseapp/tenant-server:0.0.5
+USER root
+RUN cd /app/server && npm install busboy
